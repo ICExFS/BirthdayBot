@@ -1,0 +1,5 @@
+1) Install Python
+2) Install PIP
+3) Install the requirements (pip install -r requirements.txt)
+4) Edit main.py, change the TOKEN var
+5) Run!
